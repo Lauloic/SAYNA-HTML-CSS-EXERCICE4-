@@ -1,0 +1,337 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: #114c92;
+    margin: 0;
+    padding: 0;
+}
+
+#list123 {
+    display: flex;
+    justify-content: right;
+    text-decoration: none;
+}
+
+.img2 {
+    margin-left: 70px;
+    margin-top: -30px;
+}
+
+.img3 {
+    margin-left: 120px;
+    margin-top: -40px;
+}
+
+#list123 a {
+    margin: 30px;
+    margin-top: -30px;
+    text-decoration: none;
+    color: #fff;
+}
+
+#list123 a:hover {
+    background-color: #114c92;
+    border: 30px;
+}
+
+
+/* section1 */
+
+.héro {
+    background-image: url("Assets/Illustration/img19.png");
+    padding: 300px;
+}
+
+#un {
+    color: #fff;
+    font-size: 20px;
+}
+
+#un h1 {
+    font-family: 'Far-From Homecoming Updated';
+}
+
+.section1 {
+    background-color: #114c92;
+    color: #fff;
+}
+
+#valeur {
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+
+.defendre h1 {
+    font-size: 30px;
+    font-family: 'Far-From Homecoming Updated';
+}
+
+@font-face {
+    font-family: 'Far-From Homecoming Updated';
+    src: url("/exo2/Far-From\ Homecoming\ Updated.otf");
+}
+
+#p1 p {
+    margin-top: 70px;
+}
+
+#p3 p {
+    margin-top: 30px;
+}
+
+.h2 h2 {
+    margin-top: 30px;
+}
+
+#p4 p {
+    margin-top: 30px;
+    padding-bottom: 80px;
+}
+
+
+/* section2 */
+
+.solide {
+    background-image: url("Assets/Illustration/img20.png");
+    padding: 200px;
+}
+
+.solide h1 {
+    font-family: 'Far-From Homecoming Updated';
+}
+
+.section2 {
+    background-color: #114c92;
+    color: #fff;
+}
+
+.force {
+    display: flex;
+    justify-content: space-around;
+    padding-bottom: 30px;
+}
+
+.réflexes {
+    display: flex;
+    justify-content: space-around;
+}
+
+
+/* section3 */
+
+.meilleur1 {
+    margin-top: 150px;
+}
+
+.meilleur1 h1 {
+    font-family: 'Far-From Homecoming Updated';
+}
+
+#amis {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    margin-left: 700px;
+    margin-top: -600px;
+}
+
+#meilleur2 {
+    margin-left: 130px;
+}
+
+.amis1 img {
+    margin-left: -300px;
+}
+
+#amis2 {
+    margin-left: 50px;
+    margin-top: -300px;
+}
+
+#amis2 h1 {
+    font-family: 'Far-From Homecoming Updated';
+}
+
+.titre {
+    margin-left: 130px;
+}
+
+.stacy {
+    margin-top: 450px;
+    margin-left: 130px;
+}
+
+#img123 {
+    display: flex;
+}
+
+#img2 img {
+    margin-left: 60px;
+}
+
+#img3 img {
+    margin-left: 140px;
+}
+
+#gwen1 {
+    margin-left: 600px;
+    margin-top: -350px;
+    padding-bottom: 90px;
+}
+
+.section3 {
+    background-color: #114c92;
+}
+
+
+/* section4 */
+
+.aven2 {
+    margin-left: 300px;
+    margin-top: -75%;
+}
+
+#img32 {
+    display: flex;
+    justify-content: right;
+    margin-top: -79%;
+}
+
+#avenimg2 {
+    margin-top: 30px;
+}
+
+#avenimg3 {
+    margin-top: 30px;
+}
+
+#avenimg4 {
+    margin-top: 30px;
+}
+
+#avenimg5 {
+    margin-top: 30px;
+}
+
+#avenimg6 {
+    margin-top: 30px;
+}
+
+.avengers {
+    background-color: #b11313;
+    color: #fff;
+}
+
+@font-face {
+    font-family: 'Far-From Homecoming Updated';
+    src: url("/exo2/Far-From\ Homecoming\ Updated.otf");
+}
+
+
+/* section5 */
+
+.riche {
+    border: 0;
+    margin: 10px 450px 10px;
+    padding: 10px;
+    background-color: #114C92;
+    position: -10px;
+    margin-top: -90px;
+    height: -100px;
+    text-align: center;
+    opacity: 70%;
+    color: #fff;
+    margin-top: 1px;
+    margin-left: 35%;
+}
+
+.section5 {
+    background-image: url("Assets/Illustration/img33.png");
+}
+
+
+/* footer ou pied de la page */
+
+#marvelx {
+    display: flex;
+    justify-content: center;
+    justify-content: space-around;
+    padding-top: 50px;
+    text-align: center;
+    margin-left: -30px;
+}
+
+.section7 {
+    background-color: #000000;
+}
+
+#mobile a {
+    text-decoration: none;
+    color: #fff;
+    margin: 30px;
+    align-items: center;
+    padding-top: 50px;
+}
+
+#contact a {
+    text-decoration: none;
+    color: #fff;
+    margin: 30px;
+}
+
+.imgsite ul {
+    display: flex;
+    list-style-type: none;
+    justify-content: center;
+    justify-content: space-around;
+    margin: -30px;
+    border-radius: 50px;
+    margin: 30px;
+}
+
+#face img {
+    border-color: 1px solid #fff;
+    border-radius: 50px;
+    background-color: #114c92;
+}
+
+#inst img {
+    border-color: 1px solid #fff;
+    border-radius: 50px;
+    background-color: #114c92;
+}
+
+#tweet img {
+    border-color: 1px solid #fff;
+    border-radius: 50px;
+    background-color: #114c92;
+}
+
+#yout img {
+    border-color: 1px solid #fff;
+    border-radius: 50px;
+    background-color: #114c92;
+}
+
+.imgsite {
+    display: flex;
+    justify-content: center;
+    margin: 50px;
+}
+
+.copy p {
+    color: #fff;
+    display: flex;
+    justify-content: center;
+}
+
+#contact select {
+    background-color: #114c92;
+    border-color: #114c92;
+    padding: 6px 30px 6px 30px;
+    border-radius: 20px;
+}

@@ -1,0 +1,312 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: #B11313;
+    margin: 0;
+    padding: 0;
+}
+
+#list123 {
+    display: flex;
+    justify-content: right;
+    text-decoration: none;
+}
+
+.img2 {
+    margin-left: 70px;
+    margin-top: -30px;
+}
+
+.img3 {
+    margin-left: 120px;
+    margin-top: -40px;
+}
+
+#list123 a {
+    margin: 30px;
+    margin-top: -30px;
+    text-decoration: none;
+    color: #fff;
+}
+
+#text1 img {
+    transform: scale(-1, 1);
+}
+
+.section2 {
+    background-color: #F1C530;
+}
+
+.deux {
+    display: flex;
+    flex-direction: column;
+}
+
+#text1 {
+    display: flex;
+    align-items: center;
+    justify-items: center;
+    margin-left: 57px;
+}
+
+.deux {
+    margin: 200px;
+}
+
+.deux h1 {
+    font-size: 100px;
+    color: #fff;
+    font-family: 'Far-From Homecoming Updated';
+}
+
+.deux h2 {
+    font-size: 30px;
+    color: #fff;
+}
+
+#lapetite {
+    margin-left: 150px;
+    color: #fff;
+    font-family: 'Far-From Homecoming Updated';
+}
+
+#lapetite p {
+    margin-top: 10px
+}
+
+#lapetite img {
+    margin-top: 60px;
+}
+
+#antenne {
+    display: flex;
+    flex-direction: column;
+    margin-left: 1000px;
+    margin-top: -400px;
+}
+
+.trois input {
+    border: 1px solid #fff;
+    background-color: #B11313;
+    padding: 10px 20px 10px 20px;
+    color: #fff;
+    border-radius: 20px;
+}
+
+.quatre input {
+    border: 1px solid #fff;
+    background-color: #B11313;
+    padding: 10px 20px 10px 20px;
+    color: #fff;
+    border-radius: 20px;
+    margin-top: 15px;
+}
+
+.cinq input {
+    border: 1px solid #fff;
+    background-color: #B11313;
+    padding: 10px 20px 10px 20px;
+    color: #fff;
+    border-radius: 20px;
+    margin-top: 15px;
+}
+
+.six input {
+    border: 1px solid #fff;
+    background-color: #B11313;
+    padding: 50px 20px 50px 20px;
+    color: #fff;
+    border-radius: 20px;
+    margin-top: 15px;
+}
+
+.sept button {
+    background-color: #B11313;
+    color: #fff;
+    border: 1px;
+    padding: 15px 50px 15px 50px;
+    margin-top: 7px;
+    border-radius: 20px;
+    margin-top: 60px;
+    margin-left: 65px;
+    border-color: #fff;
+    border: 1px solid #fff;
+}
+
+.section3 {
+    height: auto;
+    background-color: #B11313;
+    overflow: hidden;
+    padding-top: 70px;
+}
+
+
+/* couleur bleu*/
+
+.section4 {
+    background-color: #114c92;
+    color: #fff;
+    padding-top: 50px;
+}
+
+#smoke {
+    display: flex;
+    justify-content: center;
+    justify-content: space-around;
+}
+
+.retrouve {
+    margin-left: 132px;
+    margin-top: 20px;
+    font-size: 20px;
+}
+
+.input123 {
+    display: flex;
+    justify-content: space-around;
+    padding: 50px;
+    margin-top: -40px;
+}
+
+#facebook button {
+    background-color: #114c92;
+    color: #fff;
+    border: 1px;
+    padding: 15px 50px 15px 50px;
+    margin-top: 7px;
+    border-radius: 20px;
+    margin-top: 60px;
+    margin-left: 65px;
+    border-color: #fff;
+    border: 1px solid #fff;
+}
+
+#Instagram button {
+    background-color: #114c92;
+    color: #fff;
+    border: 1px;
+    padding: 15px 50px 15px 50px;
+    margin-top: 7px;
+    border-radius: 20px;
+    margin-top: 60px;
+    margin-left: 65px;
+    border-color: #fff;
+    border: 1px solid #fff;
+}
+
+#Youtube button {
+    background-color: #114c92;
+    color: #fff;
+    border: 1px;
+    padding: 15px 50px 15px 50px;
+    margin-top: 7px;
+    border-radius: 20px;
+    margin-top: 60px;
+    margin-left: 65px;
+    border-color: #fff;
+    border: 1px solid #fff;
+}
+
+#marvel button {
+    background-color: #114c92;
+    color: #fff;
+    border: 1px;
+    padding: 15px 50px 15px 50px;
+    margin-top: 7px;
+    border-radius: 20px;
+    margin-top: 60px;
+    margin-left: 65px;
+    border-color: #fff;
+    border: 1px solid #fff;
+}
+
+
+/* footer ou pied de la page */
+
+#marvelx {
+    display: flex;
+    justify-content: center;
+    justify-content: space-around;
+    padding-top: 50px;
+    text-align: center;
+    margin-left: -30px;
+}
+
+.section7 {
+    background-color: #000000;
+}
+
+#mobile a {
+    text-decoration: none;
+    color: #fff;
+    margin: 30px;
+    align-items: center;
+    padding-top: 50px;
+}
+
+#contact a {
+    text-decoration: none;
+    color: #fff;
+    margin: 30px;
+}
+
+.imgsite ul {
+    display: flex;
+    list-style-type: none;
+    justify-content: center;
+    justify-content: space-around;
+    margin: -30px;
+    border-radius: 50px;
+    margin: 30px;
+}
+
+@font-face {
+    font-family: 'Far-From Homecoming Updated';
+    src: url("/exo2/Far-From\ Homecoming\ Updated.otf");
+}
+
+#face img {
+    border-color: 1px solid #fff;
+    border-radius: 50px;
+    background-color: #B11313;
+}
+
+#inst img {
+    border-color: 1px solid #fff;
+    border-radius: 50px;
+    background-color: #B11313;
+}
+
+#tweet img {
+    border-color: 1px solid #fff;
+    border-radius: 50px;
+    background-color: #B11313;
+}
+
+#yout img {
+    border-color: 1px solid #fff;
+    border-radius: 50px;
+    background-color: #B11313;
+}
+
+.imgsite {
+    display: flex;
+    justify-content: center;
+    margin: 50px;
+}
+
+.copy p {
+    color: #fff;
+    display: flex;
+    justify-content: center;
+}
+
+#contact select {
+    background-color: #B11313;
+    border-color: #B11313;
+    padding: 6px 30px 6px 30px;
+    border-radius: 20px;
+}

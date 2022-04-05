@@ -1,0 +1,406 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: #B11313;
+    margin: 0;
+    padding: 0;
+}
+
+#list123 {
+    display: flex;
+    justify-content: right;
+    text-decoration: none;
+}
+
+.img2 {
+    margin-left: 70px;
+    margin-top: -30px;
+}
+
+.img3 {
+    margin-left: 120px;
+    margin-top: -40px;
+}
+
+#list123 a {
+    margin: 30px;
+    margin-top: -30px;
+    text-decoration: none;
+    color: #fff;
+}
+
+#list123 a:hover {
+    background-color: #850d0d;
+    border: 30px;
+}
+
+#spider img {
+    height: 130%;
+}
+
+.spiderman {
+    color: #fff;
+    font-size: 70px;
+    font-family: 'Far-From Homecoming Updated';
+}
+
+@font-face {
+    font-family: 'Far-From Homecoming Updated';
+    src: url("/exo2/Far-From\ Homecoming\ Updated.otf");
+}
+
+.Héros button {
+    border: 1px solid #fff;
+    background-color: #B11313;
+    padding: 15px 30px 15px 30px;
+    color: #fff;
+    border-radius: 15px;
+    text-align: center;
+    margin: 70px;
+    display: flex;
+}
+
+#buttom11 {
+    margin-left: 20%;
+    margin-top: -10%;
+}
+
+#buttom10 button {
+    background-color: #fff;
+    color: #B11313;
+}
+
+.sympa h2 {
+    color: #fff;
+    margin: 30px;
+}
+
+#spider {
+    background-image: url("Assets/Illustration/img1.png");
+    padding: 100px;
+}
+
+.type {
+    background-color: #B11313;
+    color: #fff;
+}
+
+#spider123 {
+    display: flex;
+    justify-content: space-around;
+    color: #fff;
+    margin-top: 30px;
+}
+
+
+/* button spider 123 */
+
+.spider3 button {
+    background-color: #fff;
+    color: #B11313;
+    border: 1px;
+    padding: 15px 50px 15px 50px;
+    margin-top: 7px;
+    border-radius: 20px;
+    margin-top: 10px;
+    margin-left: 40px;
+    border-color: #fff;
+    border: 1px solid #fff;
+}
+
+.spider2 button {
+    background-color: #fff;
+    color: #B11313;
+    border: 1px;
+    padding: 15px 50px 15px 50px;
+    margin-top: 7px;
+    border-radius: 20px;
+    margin-top: 50px;
+    margin-left: 40px;
+    border-color: #fff;
+    border: 1px solid #fff;
+}
+
+.spider1 button {
+    background-color: #fff;
+    color: #B11313;
+    border: 1px;
+    padding: 15px 50px 15px 50px;
+    margin-top: 7px;
+    border-radius: 20px;
+    margin-top: 50px;
+    margin-left: 40px;
+    border-color: #fff;
+    border: 1px solid #fff;
+}
+
+
+/* marge  du texte*/
+
+.spider1 p {
+    margin-top: 50px;
+}
+
+.spider2 p {
+    margin-top: 50px;
+}
+
+.spider3 p {
+    margin-top: 44px;
+}
+
+#cinéma h1 {
+    margin-left: 70px;
+    font-size: 50px;
+    font-family: 'Far-From Homecoming Updated';
+}
+
+#text1 p {
+    margin-left: 70px;
+}
+
+
+/* section2 input et button */
+
+.section2 {
+    background-color: #114C92;
+}
+
+#deviens {
+    display: flex;
+    align-items: center;
+}
+
+#spidman {
+    color: #fff;
+    margin-left: 150px;
+}
+
+#input1 input {
+    background-color: #fff;
+    color: #000;
+    border: 3px;
+    padding: 8px 60px 8px 60px;
+    margin-top: 7px;
+    border-radius: 20px;
+    margin-top: 13px;
+    margin-left: 65px;
+    border-color: #000;
+    border: 1px solid #fff;
+}
+
+#input2 input {
+    background-color: #fff;
+    color: #000;
+    border: 3px;
+    padding: 8px 60px 8px 60px;
+    margin-top: 7px;
+    border-radius: 20px;
+    margin-top: 13px;
+    margin-left: 65px;
+    border-color: #000;
+    border: 1px solid #fff;
+}
+
+#input3 input {
+    background-color: #fff;
+    color: #000;
+    border: 3px;
+    padding: 8px 60px 8px 60px;
+    margin-top: 7px;
+    border-radius: 20px;
+    margin-top: 13px;
+    margin-left: 65px;
+    border-color: #000;
+    border: 1px solid #fff;
+}
+
+#input4 input {
+    background-color: #fff;
+    color: #000;
+    border: 3px;
+    padding: 8px 60px 8px 60px;
+    margin-top: 7px;
+    border-radius: 20px;
+    margin-top: 13px;
+    margin-left: 65px;
+    border-color: #000;
+    border: 1px solid #fff;
+}
+
+#spidman button {
+    background-color: #114C92;
+    color: #fff;
+    border: 1px;
+    padding: 8px 60px 8px 60px;
+    margin-top: 7px;
+    border-radius: 20px;
+    margin-top: 30px;
+    margin-left: 150px;
+    border-color: #fff;
+    border: 1px solid #fff;
+}
+
+#spidman h1 {
+    margin-left: 80px;
+    font-family: 'Far-From Homecoming Updated';
+}
+
+#spidman p {
+    margin-left: -10px;
+}
+
+.type {
+    padding-bottom: 50px;
+}
+
+
+/* section3 */
+
+.section3 {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    background-color: #B11313;
+}
+
+#adresse input {
+    background-color: #B11313;
+    color: #fff;
+    border: 1px;
+    padding: 8px 60px 8px 60px;
+    margin-top: 7px;
+    border-radius: 20px;
+    margin-top: 30px;
+    margin-left: 150px;
+    border-color: #fff;
+    border: 1px solid #fff;
+    text-align: left;
+}
+
+#adresse1 input {
+    background-color: #B11313;
+    color: #fff;
+    border: 1px;
+    padding: 8px 60px 8px 60px;
+    margin-top: 7px;
+    border-radius: 20px;
+    margin-top: 30px;
+    margin-left: 150px;
+    border-color: #fff;
+    border: 1px solid #fff;
+    text-align: left;
+}
+
+.toi button {
+    background-color: #fff;
+    color: #B11313;
+    border: 1px;
+    padding: 15px 30px 15px 30px;
+    margin-top: 7px;
+    border-radius: 20px;
+    margin-top: 50px;
+    margin-left: 200px;
+    border-color: #fff;
+    border: 1px solid #fff;
+}
+
+.toi {
+    color: #fff;
+}
+
+.toi p {
+    margin-left: 150px;
+}
+
+.toi h1 {
+    margin-left: 150px;
+    font-size: 28px;
+    font-family: 'Far-From Homecoming Updated';
+}
+
+
+/* FOOTER */
+
+#marvelx {
+    display: flex;
+    justify-content: center;
+    justify-content: space-around;
+    padding-top: 50px;
+    text-align: center;
+    margin-left: -30px;
+}
+
+.section7 {
+    background-color: #000000;
+}
+
+#mobile a {
+    text-decoration: none;
+    color: #fff;
+    margin: 30px;
+    align-items: center;
+    padding-top: 50px;
+}
+
+#contact a {
+    text-decoration: none;
+    color: #fff;
+    margin: 30px;
+}
+
+.imgsite ul {
+    display: flex;
+    list-style-type: none;
+    justify-content: center;
+    justify-content: space-around;
+    margin: -30px;
+    border-radius: 50px;
+    margin: 30px;
+}
+
+#face img {
+    border-color: 1px solid #fff;
+    border-radius: 50px;
+    background-color: #B11313;
+}
+
+#inst img {
+    border-color: 1px solid #fff;
+    border-radius: 50px;
+    background-color: #B11313;
+}
+
+#tweet img {
+    border-color: 1px solid #fff;
+    border-radius: 50px;
+    background-color: #B11313;
+}
+
+#yout img {
+    border-color: 1px solid #fff;
+    border-radius: 50px;
+    background-color: #B11313;
+}
+
+.imgsite {
+    display: flex;
+    justify-content: center;
+    margin: 50px;
+}
+
+.copy p {
+    color: #fff;
+    display: flex;
+    justify-content: center;
+}
+
+#contact select {
+    background-color: #B11313;
+    border-color: #B11313;
+    padding: 6px 30px 6px 30px;
+    border-radius: 20px;
+}

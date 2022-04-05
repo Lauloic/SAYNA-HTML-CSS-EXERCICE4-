@@ -1,0 +1,141 @@
+/* header */
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: #b11313;
+    margin: 0;
+    padding: 0;
+}
+
+#list123 {
+    display: flex;
+    justify-content: right;
+    text-decoration: none;
+}
+
+.img2 {
+    margin-left: 70px;
+    margin-top: -30px;
+}
+
+.img3 {
+    margin-left: 120px;
+    margin-top: -40px;
+}
+
+#list123 a {
+    margin: 30px;
+    margin-top: -30px;
+    text-decoration: none;
+    color: #fff;
+}
+
+#list123 a:hover {
+    background-color: #850d0d;
+    border: 30px;
+}
+
+
+/* section2 */
+
+.section2 {
+    background-image: url("Assets/Illustration/img35.png");
+    padding: 400px;
+}
+
+#soon {
+    color: #fff;
+    font-family: 'Far-From Homecoming Updated';
+}
+
+
+/* footer ou pied de la page */
+
+#marvelx {
+    display: flex;
+    justify-content: center;
+    justify-content: space-around;
+    padding-top: 50px;
+    text-align: center;
+    margin-left: -30px;
+}
+
+.section5 {
+    background-color: #000000;
+}
+
+#mobile a {
+    text-decoration: none;
+    color: #fff;
+    margin: 30px;
+    align-items: center;
+    padding-top: 50px;
+}
+
+#contact a {
+    text-decoration: none;
+    color: #fff;
+    margin: 30px;
+}
+
+.imgsite ul {
+    display: flex;
+    list-style-type: none;
+    justify-content: center;
+    justify-content: space-around;
+    margin: -30px;
+    border-radius: 50px;
+    margin: 30px;
+}
+
+#face img {
+    border-color: 1px solid #fff;
+    border-radius: 50px;
+    background-color: #B11313;
+}
+
+@font-face {
+    font-family: 'Far-From Homecoming Updated';
+    src: url("/exo2/Far-From\ Homecoming\ Updated.otf");
+}
+
+#inst img {
+    border-color: 1px solid #fff;
+    border-radius: 50px;
+    background-color: #B11313;
+}
+
+#tweet img {
+    border-color: 1px solid #fff;
+    border-radius: 50px;
+    background-color: #B11313;
+}
+
+#yout img {
+    border-color: 1px solid #fff;
+    border-radius: 50px;
+    background-color: #B11313;
+}
+
+.imgsite {
+    display: flex;
+    justify-content: center;
+    margin: 50px;
+}
+
+.copy p {
+    color: #fff;
+    display: flex;
+    justify-content: center;
+}
+
+#contact select {
+    background-color: #b11313;
+    border-color: #B11313;
+    padding: 6px 30px 6px 30px;
+    border-radius: 20px;
+}
